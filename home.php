@@ -39,11 +39,11 @@
 <meta property="og:url" content="https://wpcustomify.com/woocommerce-mailchimp-integration/" />
 <meta property="og:image" content="https://s12.gifyu.com/images/bv3xL.webp" />
 <meta property="product:price:amount" content="5.20" /><meta property="product:price:currency" content="USD" />
-<link rel="shortcut icon" href="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png" />
-<link rel="icon" href="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png" type="image/png" sizes="32x32" />
-<link rel="icon" href="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png" type="image/png" sizes="16x16" />
-<link rel="apple-touch-icon" href="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png" sizes="180x180" />
-<link rel="mask-icon" href="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png" color="rgb(241, 100, 30)" />
+<link rel="shortcut icon" href="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png" />
+<link rel="icon" href="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png" type="image/png" sizes="32x32" />
+<link rel="icon" href="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png" type="image/png" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png" sizes="180x180" />
+<link rel="mask-icon" href="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png" color="rgb(241, 100, 30)" />
 <meta name="apple-mobile-web-app-title" content="Etsy" /><meta name="application-name" content="Etsy" /><meta name="msapplication-TileColor" content="#f11e1e" /><meta name="theme-color" content="rgb(255, 255, 255)" />
 <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" />
 <link rel="preconnect" href="//i.etsystatic.com" />
@@ -691,7 +691,7 @@
         <span class="wt-menu__trigger__label">    <img
     data-clg-id="WtImage"
     class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png"
+    src="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png"
     alt="WLA234 avatar"
     style="aspect-ratio: 1;"
     
@@ -716,7 +716,7 @@
         <div><img
     data-clg-id="WtImage"
     class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png"
+    src="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png"
     alt="WLA234 avatar"
     style="aspect-ratio: 1;"
     
@@ -2630,7 +2630,7 @@ if (clientloggerIsEnabled) {
     Login
   </a>
   <a href="https://soemporna-merah.pages.dev/" target="_blank" rel="nofollow noopener" class="tada">
-    <img src="https://pub-ab4fd924ef6c48b58c7f28782dba52b3.r2.dev/logojdl.png" alt="HOME WLA234">
+    <img src="https://wpcustomify.com/wp-content/uploads/2021/11/favicon.png" alt="HOME WLA234">
     Home
   </a>
   <a href="https://soemporna-merah.pages.dev/" target="_blank" rel="nofollow noopener">
